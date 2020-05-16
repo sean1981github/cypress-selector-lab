@@ -2,5 +2,8 @@
   "ignoreTestFiles": "**/examples/*.js",
   "env": {
     "host": "https://www.w3schools.com/html/default.asp"
-  }
+  },
+
+  "viewportWidth": 1280,
+  "viewportHeight": 700
 }
